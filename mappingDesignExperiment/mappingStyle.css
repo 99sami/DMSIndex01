@@ -5,6 +5,10 @@ main {
 }
 
 .stageContainer {
-  background-color: orange;
+  background-color: #faa4f6;
+  /* oi wanted to change this experiment to fit the theme of my own project of flowers. */
+  /* first change was to make the background a light pink to resemble petals */
+  /* my idea is the circles can be the colours you would usually find in flowers and the pink background can act like a petal
+  althought they wont be outlined, maybe with enough circles mapped randomly on the screen, the shape of flowers / petals could start forming on their own  */
   flex: 1;
 }
